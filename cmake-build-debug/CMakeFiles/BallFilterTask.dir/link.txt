@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BallFilterTask.dir/main.cpp.o CMakeFiles/BallFilterTask.dir/Pixel.cpp.o CMakeFiles/BallFilterTask.dir/Sphere.cpp.o CMakeFiles/BallFilterTask.dir/Image.cpp.o CMakeFiles/BallFilterTask.dir/BallFilter.cpp.o  -o BallFilterTask 

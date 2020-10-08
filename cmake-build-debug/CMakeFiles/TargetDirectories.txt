@@ -1,0 +1,3 @@
+/home/eliran/CLionProjects/BallFilterTask/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/eliran/CLionProjects/BallFilterTask/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eliran/CLionProjects/BallFilterTask/cmake-build-debug/CMakeFiles/BallFilterTask.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eliran/CLionProjects/BallFilterTask/Constants.hpp
+
+/home/eliran/CLionProjects/BallFilterTask/Image.cpp
+Image.hpp
+/home/eliran/CLionProjects/BallFilterTask/Image.hpp
+
+/home/eliran/CLionProjects/BallFilterTask/Image.hpp
+Pixel.hpp
+/home/eliran/CLionProjects/BallFilterTask/Pixel.hpp
+Constants.hpp
+/home/eliran/CLionProjects/BallFilterTask/Constants.hpp
+vector
+-
+
+/home/eliran/CLionProjects/BallFilterTask/Pixel.hpp
+
